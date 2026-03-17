@@ -1,0 +1,1039 @@
+This is a Public document.
+Kotak Mahindra Bank Limited
+Q3FY26 Earnings Conference Call
+IST 5.15 PM on January 24, 2026
+Management: Mr. Ashok Vaswani - Managing Director & CEO
+Mr. Jaideep Hansraj - Whole-time Director
+Mr. Paritosh Kashyap - Whole-time Director
+Mr. Devang Gheewalla - Group Chief Financial Officer
+Mr. Pranav Mishra - Consumer Bank
+Mr. Vyomesh Kapasi - Consumer Bank
+Mr. Manish Kothari - Commercial Bank
+Kotak Mahindra Bank
+January 24, 2026
+Page | 2
+This is a Public document.
+Safe Harbour
+This document contains certain forward-looking statements based on current expectations of Kotak Mahindra
+management. Actual results may vary significantly from the forward -looking statements contained in this document
+due to various risks and uncertainties. These risks and uncertainties include the effect of economic and political
+conditions in India and outside India, volatility in interest rates and in the securities market, new regulations and
+Government policies that may impact the businesses of Kotak Mahindra group as well as its ability to implement the
+strategy. Kotak Mahindra does not undertake to update these statements. Please also refer to the statement of
+financial results required by Indian regulations that has been filed with the stock exchanges in India and is available
+on our website ir.kotak.com. This document does not constitute an offer or recommendation to buy or sell any
+securities of Kotak Mahindra Bank or any of its subsidiaries and associate companies. This document also does not
+constitute an offer or recommendation to buy or sell any financial products offered by Kotak Mahindra, including but
+not limited to units of its mutual fund and life insurance policies. All investments in mutual funds and securities are
+subject to market risks and the NAV of the schemes may go up or down depending upon the factors and forces
+affecting the securities market. The performance of the sponsor, Kotak Mahindra Bank Limited, has no bearing on the
+expected performance of Kotak Mahindra Mutual Fund or any schemes thereunder.
+Kotak Mahindra Bank
+January 24, 2026
+Page | 3
+This is a Public document.
+Moderator: Ladies and Gentlemen, Good day, and welcome to the Kotak Mahindra Bank Q3 FY '26
+Earnings Conference Call.
+As a reminder, all participant lines will be in the listen-only mode, and there will be an
+opportunity for you to ask questions after the presentation concludes. Should you need
+assistance during this conference call, please signal an operator by pressing “*” and then
+“0” on your touchtone phone. Please note that this conference is being recorded.
+I now hand the conference over to Mr. Ashok Vaswani – Managing Director and CEO of
+Kotak Mahindra Bank. Thank you, and over to you, sir.
+Ashok Vaswani: Thank you. Thank you so much, operator. Good evening, everyone, and thank you for
+joining us. Before I begin, let me welcome Anup Saha, our new WTD designate. Anup brings
+over 3 decades of vast experience and domain expertise across many fields, including
+retail finance, analytics, risk, collections, and financial service operations. He will oversee
+our consumer Bank, data analytics, and marketing verticals. His addition strengthens our
+leadership team and accelerates our ability to execute at scale.
+Moving on to today's agenda, I will make some opening remarks. Devang will cover the
+numbers in detail; Pranav – the Deposits Franchise, Vyomesh – Consumer Assets; Manish
+– Commercial Banking, Paritosh – Wholesale Banking, and Institutional businesses, and
+finally, Jaideep will update you on our subs.
+Let me first talk a little bit about the macroeconomic environment:
+The global landscape has become more volatile. Geopolitical tensions, trade and tariff
+uncertainties have weighed on global investor confidence. While there seems to be a high
+level of confidence to get a trade deal with the EU, the absence of a final trade agreement
+with the U.S. continues to add to this uncertainty. We have seen unprecedented
+strengthening of gold and silver and outflows from India by FIIs to other markets that are
+perceived to be more attractive to foreign investors.
+However, the Indian economy continues to demonstrate strong and stable growth:
+GDP growth continues to be resilient with a positive outlook. This is supported by several
+enabling actions like the RBI's repo rate cuts and GST rate rationalization. 3Q also saw an
+uptick in growth led by the usual festive demand.
+Rural India overall looks stable, supported by good monsoons.
+Kotak Mahindra Bank
+January 24, 2026
+Page | 4
+This is a Public document.
+The rupee weakness has partly offset tariff impacts but has also affected foreign flows
+and liquidity.
+With respect to capital flows, while FIIs have been net sellers, domestic institutional
+investors have provided support with around $24 billion in inflows in Q3 FY '26, reinforcing
+the Savers to Investors trend. This is also evident in the strong IPO pipeline expected for
+calendar 2026.
+In the Banking sector specifically:
+System credit growth has been healthy, but the flows into commodities and capital
+markets are putting more pressure on low-cost deposits.
+There is enhanced volatility seen in the banking sector liquidity, while benchmark rates are
+reduced, longer-term treasury yields have firmed up.
+Within this context, coming to Kotak:
+We remain focused on our strategy to scale responsibly. This discipline is reflected in our
+quarterly performance. In the Bank, net advances grew 16% Y-o-Y. This is in line with our
+stated philosophy of growing our advances in the range of 1.5x to 2x nominal GDP growth.
+We have seen consistent growth of around 4% per quarter for the last 3 quarters of this
+financial year.
+Average deposits grew 15% year-on-year. We have been focusing on granular CASA
+growth. This is on the back of our focus segment strategy and I will come to that shortly.
+We called out unsecured retail loans earlier. We said we would grow gradually and
+responsibly, with the unsecured assets growing in absolute terms in the first instance. And
+that's exactly what we have done and will continue to do so.
+The Bank's NIM continues to be healthy at 4.54%, supported by our low cost of funds.
+Credit costs, as indicated previously, continue the downward trend, supported by our
+updated underwriting models and enhanced collection efforts. Credit costs are down
+sequentially from 93 basis points in Q1 to 79 basis points in Q2 and now 63 basis points
+in Q3. But within this, we continue to watch the Retail CV segment carefully. Overall, we
+expect normalization of credit costs to continue, though at a more moderated pace.
+Kotak Mahindra Bank
+January 24, 2026
+Page | 5
+This is a Public document.
+Total operating expenses continue to remain under control as we drive productivity and
+efficiency. This quarter includes certain one-offs, which Devang will cover in his
+comments.
+In the subsidiaries, this quarter our subsidiaries contributed 30% of consolidated profits,
+which grew 11% on a year-on-year basis. Jaideep will take you through the details. At an
+overall level, the consolidated book value per share grew 15% year-on-year to INR 176 on
+a post-stock split basis.
+Stepping back, this was another quarter of solid progress against our stated strategy.
+Kotak is the most comprehensive financial conglomerate. We run the group through the
+Bank and 19 wholly owned subsidiaries. This enables us to create holistic propositions for
+our chosen customer segments. In addition to this, we run Tractor Finance, CV, CE as
+standalone product verticals.
+We have identified four focus segments, High Net Worth, Core India, SME, and Institutional
+Clients.
+For the High-Net-Worth segment, we have the Private Bank and Solitaire Propositions.
+Our private Bank has shown consistent good growth in AUMs across MF, NDPMS, AIF, et
+cetera. Solitaire, our offering for the affluent, has worked well in growing CASA, SIPs,
+mutual funds, and driving card spend.
+In Core India, we have our 811 offering. After the embargo, we are back to acquiring a large
+number of customers every month. This has also contributed to the savings book growth.
+Our recently launched 811 Super is attracting the digitally-savvy younger customer with a
+much better ticket size.
+SME continues to be the backbone of Kotak. The total SME book grew 17% year-on-year
+to INR 1.16 lakh crores.
+On the institutional side, Investment Banking and Alternate Assets businesses had a very
+good quarter.
+Additionally, we continue to be leaders in Tractor Finance with a quarterly growth of 5%,
+and year-on-year growth of 16%.
+On the tech front, we are now further accelerating progress on automation and digitization
+of Kotak, improving customer service, and enhancing efficiency. This covers the entire
+gamut of the customer life cycle and our various channels across sales offices, branches,
+Kotak Mahindra Bank
+January 24, 2026
+Page | 6
+This is a Public document.
+call centers, and digital channels. These efforts have allowed us to grow the balance sheet
+without corresponding headcount growth.
+We have made significant progress on strengthening technology resilience and
+recalibrating credit risk. Our strategy is clear, execution is progressing well, and we are
+seeing good traction in customer acquisitions, deposit, and asset levels.
+The above results are a reflection of our continued progress against the execution of our
+strategy of driving scale for relevance without diluting our DNA of risk prudence and
+profitability.
+With that, I will hand it over to Devang to walk you through the numbers in detail.
+Devang Gheewalla: Thank you, Ashok. Good evening, friends, and wishing you all a happy new year.
+Let me start with the overall Bank performance for Q3:
+If you look at it, this quarter actually saw all-round improvement in net interest income, fee
+income, as well as credit cost, combined with growth in granular low-cost deposits while
+maintaining the credit growth. Operating costs saw some one-offs related to acquisition
+and volume-related costs. I will speak about that later.
+The Bank's balance sheet grew 15% on a Y-o-Y basis, with net advances growing at 16%
+Y-o-Y.
+For advances book, mortgage asset continues its growth trajectory with 18% Y-o-Y
+growth. Aggregate SME advances, as you know, we do SME from 3 separate verticals,
+which is combined within commercial Bank- Agri, working capital and business loans in
+consumer, and SME in wholesale business, all 3 put together, growing at 17% Y-o-Y basis.
+The Bank was able to retain its leadership position in Tractor Finance business at 16% Yo-Y growth.
+Absolute unsecured retail loan book growth showed gradual growth, as we had indicated.
+We remain cautious in growing retail commercial vehicle book, while addressing the credit
+concerns.
+Coming to the deposit side, the total deposits grew 15% on a Y-o-Y, supported by healthy
+growth in low-cost deposits, as CA and fixed rates SA both growing at 15% across
+customer segments. Even on average basis, we saw significant granular movement in lowcost deposits, with average CA growing 8% Q-o-Q, and average fixed rates SA growing 4%
+on a Q-o-Q basis. We have obviously also reduced our reliance on the LIBOR linked SA,
+Kotak Mahindra Bank
+January 24, 2026
+Page | 7
+This is a Public document.
+which has also helped us in getting a higher cost of fund benefit. CASA ratio at 31st
+December was at 41.3%.
+Bank's net worth is at INR 1,30,000 crores, with a ROE for Q3, 10.68%. Net worth increase
+in Q3 included about INR 2,000 crores unrealized gain on valuation of the strategic
+investments, which we hold, which is the MCX and KFIN. As you know, we have been
+accounting this post-tax gains under AFS reserve, and we are not taking it to the profit and
+loss count. ROE for Q3 computed on net worth, excluding this cumulative AFS reserves out
+of the strategic investments, is actually at 11.29%. And if you further adjust for the excess
+equity, at 15% of capital adequacy, our ROE is closer to 14%.
+At the Bank standalone level, capital adequacy is very healthy at 22.6%, of which CET1
+itself is 21.5%.
+Coming to the income statement:
+Bank ended the quarter with a PAT of INR 3,400 crores. Q3 includes high cost on account
+of new labor code-related provisions, which at the Bank standalone is INR 96 crores pretax business. Adjusting for this, profit actually grew 8% on a quarter-on-quarter business.
+NIM for the quarter remained at 4.54%, which is same as last quarter, despite the 50% repo
+rate cut in the quarter of June. During the Quarter 3, we also saw a higher short-term
+liquidity, which was deployed in treasury assets. If we exclude those short-term earning
+assets, our NIM actually improved to 4.58%, up 4 bps during the quarter.
+Cost of funds reduced by 16 bps during Q3 at 4.54%, driven by low-cost deposits and
+repricing of maturing term deposits. So, if I look at the cost of fund trajectory, it used to be
+5.01% in Q1, reduced to 4.70% in Q2, now So, down to 4.54%.
+Fee income saw a healthy growth of 6% Q-o-Q, contributed mainly by FX, debt capital, and
+distribution income. Credit card fee growth continues to remain muted.
+Employee cost of the Bank is INR 2,200 crores for Q3, which includes INR 96 crores, as I
+mentioned earlier, pursuant to the new labor code. Further, there was a saving in the retiral
+cost during Q2, if you recall, which we had mentioned, which has been normalized during
+Q3. So, that is also an effect of Q3 movement over Q2 under the retiral cost, which has also
+impacted the cost. Actual payroll cost without this, which is basically the CTC cost of all
+the staff, remains flat on a Q-o-Q basis.
+Other operating expenditure of the Bank is INR 2,700 crores for Q3, which is up 5% Q-o-Q
+basis. However, to further analyze that, it includes marketing spend during the festive
+Kotak Mahindra Bank
+January 24, 2026
+Page | 8
+This is a Public document.
+period on brand promotions. Further, this quarter saw a significant increase, which is
+seasonal factor, on the tractor finance disbursement. And as you know, there is a higher
+brokerage we should pay in tractor finance, which is accounted upfront, and that is also
+resulted in the acquisition cost going up. There was also an increased acquisition in 811
+products, which also increased the volume-related cost.
+Cost to income ratio, without considering the one-off impact of the new labor code is at
+47.4%.
+Asset quality parameters across all the parameters improved significantly during Q3 on
+expected lines. Gross NPA at 1.30% versus 1.39%. Net NPA at 0.31% versus 0.32% last
+quarter, with a provision coverage ratio now at 76%.
+Credit cost for Q3 reduced to 63 bps, down 16 bps Q-o-Q from 79 bps in Q2. As you recall,
+Q1 credit cost was at 93. While delinquencies in Unsecured Retail business showing
+improvement, we remain cautious on Retail Commercial Vehicle segment. Slippages for
+Q3 were INR 1,600 crores, which includes INR 257 crores that got upgraded within the
+same quarter. The slippage ratio, therefore, improved 1.34% from 1.41% in Q2.
+Coming to the consolidated performance:
+With respect to group companies, capital market subsidiaries showed growth with
+increased volume and improved market share. Our AMC business, including the Trustee
+company, continues to perform well with growth in AUM. Insurance business, which got
+impacted by GST regulations, changes in Q2, has normalized in the current quarter.
+Our consolidated customer assets are at INR 5,98,000 crores, and our AUM managed by
+the group is now INR 7,87,000 crores, both grew at 15% on a Y-o-Y basis. Q3 '26
+consolidated profit after tax is INR 4,900 crores, grew 10% from INR 4,400 crores. Q3 profit
+PAT is after the new labor code impact of INR 128 crores. INR 128 crores is the pre-tax
+cost at the group level, equivalent to INR 96 crores what we took it in the Bank.
+ROE at consolidated level is at 11.39%, and ROA for Q3 is 2.10%. The consolidated net
+worth of the group is now INR 1,75,000 crores.
+Our capital adequacy continues to remain strong at group level at 23.3%, with CET-1 is
+22.4%.
+The book value of the share is 176, which has grown by 15% Y-o-Y, and this, obviously, the
+book value is after considering the split of the shares.
+Kotak Mahindra Bank
+January 24, 2026
+Page | 9
+This is a Public document.
+With this, I hand over to Pranav to take you through the highlights of the Deposits
+franchise.
+Pranav Mishra: Thank you.
+Devang has taken you through the numbers. I will now take you through the underlying
+strategy of the Bank deposit franchisee.
+As outlined earlier, our strategy to serve the customer focuses on 3 levers for growth,
+consumption-led, investment-led, and asset-led in a cost-effective manner. Customers
+are now highly digital, expecting real-time, frictionless engagement across every
+touchpoint of the Bank.
+We are providing and curating journeys to capture following customer behaviors, which
+trends across High Net Worth, Mass Affluent, and Core India, and that is a billion Indians.
+#1. Consumption-first mindset: We are leveraging spending patterns to create relevant
+banking opportunities.
+#2, Savers to Investors: We are tapping into the shift from savers to investors via SIPs,
+Demat, and trading accounts to build CASA granularly and sustainable growth onto it.
+#3 Liabilities opportunity from asset: We are building a banking ecosystem around
+customers having asset relationship by offering aspirational products.
+Our propositions are capturing these behaviors and providing enhanced experience to new
+to Bank customers, as well as adding value to our existing customers.
+On current account, our average current account balances grew by 14% Y-o-Y this quarter.
+Our focus on the self-employed customer base continued to show momentum in a new
+acquisition, contributing to the overall balances and long-term value creation. In addition,
+the focus on customer collection and payment flows drove the growth in throughput and
+liability balances.
+On savings account, our average fixed rate savings balances grew 12% Y-o-Y. In savings
+account, our focus continues to be on high Net Worth, Mass Affluent, and Core Customer
+segments supported by a comprehensive relationship-led approach that values customer
+engagement across Kotak's ecosystem, including liabilities, investments, insurance, and
+loans.
+Kotak Mahindra Bank
+January 24, 2026
+Page | 10
+This is a Public document.
+Kotak Solitaire, as spoken by Ashok, that proposition was launched in Quarter 1, and is
+designed to execute the above-mentioned strategy through quality acquisition, deeper
+relationship, and sustainable deposit growth.
+We have observed an uplift in new to affluent customers with increase in relationship value,
+primarily driven by deposits and investments, including mutual funds, SIPs, and other
+asset building products. This trend is visible across both newly acquired and existing
+customers.
+Kotak's 811, our flagship digital banking proposition, continues to accelerate customer
+acquisition and digital service at scale with speed and simplicity. It gives Kotak granular,
+sticky, and low-cost deposit through seamless digital onboarding and app platform.
+Kotak's 811 Super Savings account is the first of its banking proposition, based on cash
+flows, not on average monthly balance. It offers 5% cash back on debit card spends. It is
+specifically designed for Core India customer, young, aspirational, and value conscious.
+Term deposit, we grew by 17% Y-o-Y and 4% Q-o-Q.
+Distribution:
+Our distribution strategy continues to deliver omni-banking experience by leveraging
+physical, digital, and virtual channels. The virtual banking platform bridges branch and
+digital services with personalized, scalable 24x7 customer engagement. This approach
+helps us in enhancing operational efficiencies and effectiveness of remote banking
+services.
+Our ability to serve customers at both acquisition and service stages has been improved
+due to decongestion and digitization of processes across branches and all other channels.
+Our focus remains on maintaining a balanced mix of savings, current, active money, and
+term deposit to drive sustainable growth in liabilities, in a cost-effective manner.
+I now hand over to Vyomesh to take you through consumer asset business.
+Vyomesh Kapasi: Thank you, Pranav.
+I will take you through the highlights of the consumer assets:
+At a macro level, the demand environment of consumer assets remains favorable,
+supported by stable economic activity and improving customer confidence. Our consumer
+Kotak Mahindra Bank
+January 24, 2026
+Page | 11
+This is a Public document.
+asset portfolio delivered 16% growth year-on-year and 4% growth sequentially, led by
+strong momentum in MSME, segment reinforcing our strategic focus on balanced highquality expansion.
+Mortgages:
+Mortgage loans comprising of home loans and loan against property continued to register
+healthy growth of 18% year-on-year and 5% quarter-on-quarter.
+The Home Loan market continues to be price sensitive, however, our strategic focus on
+deepening customer relationship and positioning Home Loan as an anchor product for the
+Affluent segment continues to drive steady traction. This approach enables us to increase
+wallet share from existing customer, helping in cross-selling to liabilities, investments, and
+other core banking products. The Home Loan portfolio has demonstrated reasonable
+growth and remains a key area of focus.
+The loan against property segment, largely serving the MSME customer base, continues
+to show strong momentum, supported by healthy borrower demand and our disciplined
+approach to underwriting. We maintain a strong position in this segment, supported by
+ongoing investment in process improvement, enhanced credit assessment, and an
+elevated customer service.
+Overall, the quality of our mortgage book remains sound, enabling us to sustain growth in
+this particular space.
+Business banking:
+There is a sustained demand for working capital across sectors, driven by a surge in
+consumption trends, following the changes in GST. Our Secured Business Banking
+portfolio, comprising micro and small SME customers, recorded a strong growth of 21%
+year-on-year and 5% quarter-on-quarter, with utilization levels remaining high, particularly
+during the festive period.
+In the Unsecured Business Loan segment, growth has remained steady, with our focus on
+maintaining portfolio quality.
+Overall, the Business Banking portfolio across both Secured and Unsecured segments
+continues to be stable.
+Kotak Mahindra Bank
+January 24, 2026
+Page | 12
+This is a Public document.
+Personal loans:
+Our Organic Personal Loan business continues to be the main driver of our growth in the
+Retail Unsecured portfolio. Disbursements have stayed strong, led by Salaried Customer
+segment, supported by a wider range of digital lending journeys.
+Credit quality remains stable, helped by better analytics, sharper underwriting, hence
+stronger risk controls. The rapid expansion of digital origination channels is allowing faster
+decisions, deeper customer reach, and healthy growth in this segment.
+The Personal Loan portfolio acquired from Standard Chartered last year is performing
+better than expected. Although the rundown of the acquired book has been quicker this
+quarter, the strong pickup in organic disbursement positions us well for a return to growth
+in personal loan advances in coming quarters.
+Our focus on maintaining credit quality remains firm. We will keep building this business
+by using data-driven insights, disciplined policies, and digital-first origination to manage
+risk effectively.
+Credit cards:
+Credit cards are key to our core strategy for deeper engagement with our customers,
+ecosystem stickiness, richer data insight, cross-sell, and better CASA retention to drive
+improved profitability. Our new Solitaire credit card continues to gain traction in the High
+Net Worth Customer segment.
+The GST cut and festive season improved customer spends and stronger portfolio
+engagement.
+We are seeing consistent improvement in credit quality due to moderating delinquencies,
+driven by enhanced data analytics, strengthened risk control, and portfolio strengthening.
+The analytics-led pre-approved programs, superior risk model, new product launches
+across customer segments, digital issuances, and targeted ecosystem partnerships will
+drive scale with quality.
+In summary:
+Delinquency in overall Unsecured portfolio has improved with better flow rates and
+collection efficiencies observed in this quarter. We will continue to enhance our risk
+management and monitoring framework for all our consumer asset portfolio.
+Kotak Mahindra Bank
+January 24, 2026
+Page | 13
+This is a Public document.
+We are leveraging analytics, including machine learning models, alternate data in
+collection to increase collection efficiency and recovery of unsecured portfolio.
+I now hand over to Manish to take you through the commercial banking business.
+Manish Kothari: Thank you, Vyomesh.
+I will start the highlights of Commercial Vehicle portfolio.
+The CV industry saw a sales growth of 22% Y-o-Y and a 21% Q-o-Q growth on account of
+growth across medium, light, small commercial vehicles. The growth was primarily due to
+reduction in GST and price hike announced by OEM's effective 1st of Jan.
+We continue to maintain our overall market position with an appropriate customer
+segment mix, ranging from fleet operators to retail. As we had mentioned last time, we
+continue to witness some stress in the Retail CV segment. Hence, over the last few
+quarters, we have substantially tightened our underwriting and have reduced our
+disbursements to this segment. We have strengthened our collections accordingly.
+The portfolio built over the last few quarters is showing better performance in terms of
+early delinquency trends and hence we expect improvement in overall portfolio
+performance over a period of time. We will continue to focus on building our business
+cautiously through calibrated risk interventions, while keeping a close watch on certain
+customer segments.
+Construction equipment:
+The Construction Equipment industry sales continued to witness negative growth, (-14%)
+Y-o-Y in Q3 and negative growth of around 10% for YTD December, primarily impacted by
+slower infrastructure activity as well as project execution challenges due to early and
+extended monsoons disrupting equipment deployment as well as tight state government
+cash flows delaying infra-execution.
+Industry-wide, the institutional buyers and mid-size contractors continue to show
+resilience, whereas small contractors and first-time users and buyers are navigating a
+slightly more tightened liquidity phase.
+Given this environment, our disbursements were broadly in line with industry trends and
+we continue to maintain a strong position in the market.
+Kotak Mahindra Bank
+January 24, 2026
+Page | 14
+This is a Public document.
+Improved cash flow released by state governments, local bodies, municipal corporations,
+strong and expeditious project award by the government, and higher budgetary CapEx
+allocation in the upcoming budget will be key for the industry numbers to pick up in the
+coming quarters.
+Tractor finance:
+The tractor industry sales saw 22% Y-o-Y growth and 19% Q-o-Q growth in Quarter 3,
+primarily due to GST rate cuts, government support on subsidies and favorable rural
+sentiment due to good monsoons.
+Monsoons extending into early November as well as soft Agri-commodity prices have had
+some impact on the cash flows of the farmers. However, robust rabi sowing should
+improve rural cash flows.
+Our Disbursements grew broadly in line with the industry, helping us maintain our
+leadership position.
+Impact of cash flow for the farmers reflected in slightly lower collections efficiency in this
+quarter and is likely to recover as rural cash flows improve.
+Microfinance:
+The microfinance had started degrowing quarter-on-quarter from Q2 of last financial year.
+While the disbursements have picked up over the last few months, we expect the industry
+data to reflect a muted Q3 as well.
+Our retail microcredit book has remained flat quarter-on-quarter, primarily due to
+scheduled repayments offsetting the current disbursement rate. The portfolio quality for
+business origination through a risk profile-based underwriting model is performing quite
+well. We expect disbursements to gradually improve from this quarter and the portfolio
+performance to continue to get better in the coming quarters.
+We have also started covering our microcredit loan disbursements under CGFMU Credit
+Guarantee Scheme.
+Post-merger of BSS and Sonata in October, we are working towards integrating the overall
+franchise to serve our customers more efficiently across all geographies.
+Kotak Mahindra Bank
+January 24, 2026
+Page | 15
+This is a Public document.
+Agri Business Group:
+The Agri SME book saw a YOY growth of 12% and a quarter-on-quarter growth of 8%,
+supported by pick-up in working capital utilization and a strong growth in New-To-Bank
+customer acquisitions. The quality of the book continues to remain good.
+In this segment, we will continue to grow our new customer acquisition across Agri
+clusters and focus on providing holistic solutions to these customers through a One-Kotak
+approach addressing borrowing needs, transaction banking, investment and protection
+needs of our customers.
+I now hand over to Paritosh to take you through the Wholesale Banking and Institutional
+Business.
+Paritosh Kashyap: Thank you, Manish.
+I will now take you through the highlights of the Wholesale Banking and Institutional
+Businesses.
+This quarter, our Wholesale Banking Assets along with Credit Substitutes grew at 17% YOY
+and 3% quarter-on-quarter driven by robust advances growth. The Credit Substitutes book
+was, however, flat this quarter as better loan market pricing led to a shift from investments
+to loans. We maintained our emphasis on granular growth through the SME and midmarket verticals.
+In Corporate SME, new business momentum remained strong with stable spreads.
+Adjusting for the migration we did at the start of this year from SME to other verticals of
+the Corporate Bank, SME advances grew at 26% YOY and 7% quarter-on-quarter. SME
+remains a core strategic pillar and our ongoing investments in technology projects such
+as CRM, loan operating system, and digitization of customer journeys are helping reduce
+turnaround time and improve productivity. Consistent with our focus on building holistic
+long-term relationships with customers, we partnered with Indian Institute of Technology
+to launch programs that enhance further readiness and AI adoption among our SME
+customers.
+Our mid-market portfolio too continues to scale rapidly. Our book here is diversified and a
+substantial portion of the book is from working capital and flow-based businesses.
+Kotak Mahindra Bank
+January 24, 2026
+Page | 16
+This is a Public document.
+Pricing continues to be a challenge in the larger corporate space, especially in long-term
+loans and project finance. We continue to focus more on flow-led businesses and
+profitability through higher cross-sell, greater share of transaction banking and deeper
+penetration.
+Trade remains a priority. While overall growth in the trade book was muted this quarter due
+to pricing pressures and large mandates, the granular portfolio showed good momentum
+with new client acquisitions and mandates. We also saw good growth in the cross-border
+trade book in GIFT City. Our recently launched EwayGo digital platform for supply chain
+finance is also witnessing a robust pipeline.
+Our asset quality across customer segments continues to be robust, and we saw minimal
+slippages this quarter.
+We continue to enhance returns and profitability through liabilities and fees. There was an
+uptick in DCM volumes and revenues this quarter driven by successful completion of large
+transactions across corporate, real estate, and infrastructure. FX revenue also grew aided
+by both corporate and institutional flows.
+We continue to focus on increasing our share of customer collections and payment flows.
+This quarter, overall number of transactions and throughput have grown well. This was
+complemented by capital market transactions, including escrows, dividends, buybacks,
+resulting in healthy average liability growth this quarter.
+Investment in technology, including the launch of a dedicated escrow platform and
+enhanced API capabilities, have further strengthened our system.
+Our unified corporate portal, Fyn is seeing good customer adoption. This quarter, we
+automated the working capital loan disbursement, dealer financing and servicing on Fyn.
+The wholesale Bank continues to work closely with the investment Bank and institutional
+brokerage businesses to improve corporate and investor coverage. Together, the group is
+able to maximize opportunities across custody, escrow, FX, financing, and primary market
+activity, and deepen relationships across the franchise.
+This quarter was an active quarter for these businesses with several marquee IPOs and
+advisory deals. In capital markets, the investment Bank managed 11 IPOs and 3 QIPs,
+raising a cumulative of about INR 74,000 crores, and in advisory, the investment Bank
+advised on 5 transactions with a cumulative deal value of about INR 26,000 crores.
+Kotak Mahindra Bank
+January 24, 2026
+Page | 17
+This is a Public document.
+The institutional brokerage business also maintained its tier 1 ranking with most global
+FPIs for their India investments, and with leading domestic mutual funds and insurance
+companies, and gained volume share in a challenging market.
+Custody balances at the Bank also showed growth this quarter in both the offshore and
+domestic custody space. We remained focused on onboarding new custody clients,
+including through GIFT City.
+Overall, the wholesale banking and institutional businesses remain in good health,
+delivering acceptable ROE, and demonstrating resilience across market cycles.
+I now hand over to Jaideep to take you through the subsidiary businesses.
+Jaideep Hansraj: Thank you, Paritosh. Good evening to all.
+Let me talk about our subsidiaries now:
+In Q3 FY’26, our subsidiaries reported profit of INR 1,453 crores, up 11% YOY and 19%
+sequentially. This strong performance meant subsidiaries contributed a healthy 30% of
+consolidated profits for the quarter, underscoring the depth and resilience of our
+conglomerate model. It enables us to capture shifting financial trends through cycles and
+retain profitability within the group.
+Our four engines of growth that enable us to meet customer needs across the financial
+spectrum are banking and lending, capital markets, asset management and protection.
+Starting with the lending subsidiaries:
+Our largest contributor, Kotak Mahindra Prime, our auto finance business, delivered PAT
+growth of 15% YOY. Its customer assets grew to INR 43,244 crores, with a YOY growth of
+13%. KMIL and KIDF saw muted performance in the quarter. Hence, the total PAT for
+lending and related subsidiaries de-grew on a sequential basis, but was up 6% on a YOY
+basis.
+Turning to the capital market business:
+Last year was an extraordinary period for capital markets with buoyant volumes, driving
+strong profits in our capital market subsidiaries. The first half of this year was tepid, but
+Q3 has bounced back with our PAT up 31% sequentially. Given the high base in the
+previous year, the PAT was down YOY. In Kotak Securities, our overall market share
+Kotak Mahindra Bank
+January 24, 2026
+Page | 18
+This is a Public document.
+increased to 13.5% from 11.5% on a YOY basis, and its market share in the MTF business
+was about 14% as of December 31st, 2025.
+As mentioned by Paritosh earlier, our institutional equities business and the investment
+banking business have had a very healthy round of market share, with the institutional
+equities business being a tier 1 broker for global and domestic institutions, and KMCC
+acting as investment bankers for high quality mandates.
+Turning to the asset management business:
+Kotak AMC and Trustee companies saw growth of 31% on a YOY basis and 22% on a QOQ
+basis. The total domestic MF AUM increased by 20% YOY to INR 5,86,610 crores as of 31st
+December 2025.
+KAAML, Kotak Alternate Asset Managers Limited is one of the largest domestic alternate
+asset managers in India, with total funds raised since inception of USD 11.08 billion. This
+quarter, it had some successful strategy exits in the portfolio, which is reflected in the
+profitability.
+Moving to the life insurance business:
+The individual annual premium equivalent grew 18.7% YOY in Q3 FY’26. Our retail sum
+assured recorded a 75% growth in Q3 FY’26 due to increased focus on the protection
+segment aided by GST relief provided to customers. The AUM has crossed INR 1 lakh
+crores for the life insurance business, showing a growth of 14% YOY. Kotak Life continues
+to maintain a solvency ratio of 2.3x as against the regulatory requirements of 1.5x. Q3
+FY’26 is flat on a YOY basis on account of GST and one-time labour code impact.
+In conclusion, let me reiterate that our unique strength lies in our breadth. We manufacture
+every major financial product as a group, with subsidiaries that not only build and
+distribute through their own channels but leverage the Bank’s distribution strength. A
+100% ownership allow us to retain full alignment and profits within the group and also
+capture emerging opportunities across financial markets as trends evolve.
+I will now request the operator to begin the Q&A session.
+Moderator: Thank you very much. We will now begin the Q&A session. Our first question comes from
+the line of Kunal Shah from Citigroup. Please go ahead.
+Kunal Shah: Hi, thanks for taking the question. Firstly, on the margin part, it was a flat quarter-onquarter. Last time you had guided that there should be a gradual improvement looking at
+Kotak Mahindra Bank
+January 24, 2026
+Page | 19
+This is a Public document.
+the deposit repricing and the CRR benefit. What has actually changed in terms of the
+expectations with respect to margins? You had indicated maybe some short-term liquidity
+deployed into treasury, which impacted by 4 odd business points. But apart from that,
+anything else which has impacted the margins, which has just led it to be flat quarter-onquarter? And what would be the outlook getting into Q4 and next year?
+Devang Gheewalla: Hi Kunal, Devang here. You are right. So, let's understand what has impacted this before
+going to the likely scenario next quarter. So, this quarter, of course, the yield got impacted.
+The floating rate yield got impacted by the 50-bps cut in the June, of which the effect came
+in the Q3 as on expected lines. However, this was offset also by partially the CRR rate cut
+which happened during Q3 and, of course, the repricing of deposits where we saw the cost
+of funds reducing from 4.70 to 4.54. As against that, Kunal, as I explained, we also saw a
+lot of IPO-related short-term funds available in the Bank. And that obviously got deployed
+in the treasury assets, which are typically lower-yielding assets for a short period of time.
+And that effectively brings down the averages of the funds available and impacts the NIM
+mathematically. So, if I effectively remove the effect of the short-term funds, which were
+significantly higher compared to the Q2 on an average basis as well, the NIM improvement
+is actually 4.58 as against the average which got arrived at 4.54.
+Now the second question, how do we see the outlook going forward? I think Q4, we will
+obviously have the impact of the 0.25% rate cut in the Q4 floating rate advances as well.
+However, the repricing of deposits of course will continue in the Q4, but at a lower pace, as
+you can see actually, the cost of fund decline was 5.01 to 4.70, now to 4.54. So, that has
+been obviously at a reducing pace which will go into Q4 as well. However, the CRR cut
+which happened during each of month in Q3. The average of that will have a full quarter
+impact benefit, actually, in the Q4.
+The last one, as you know, Q4 has a typical aberration where in February we have lower
+number of days, while the yield on the advances are at a full month basis of 30 days, the
+deposits comes only for 28 days. This does bring some sort of a kicker in the NIM, which
+is aberration which gets of course corrected in the Q1. So, assuming no further rate cuts
+in February, I think we will see a moderate increase in Q4 NIM, as I explained. But I think
+more realistic and stable NIM is something which we will be able to sort of estimate going
+forward from Q1, once the aberrations are also removed and we have a clearer picture. We
+are already seeing some of the tightening in the liquidity and the rates in the term deposits
+hardening. And as against that, we also expect to see some growth in the unsecured
+business. And let's see how it plays out and impacts.
+Kunal Shah: Sure. That helps. And the second question is with respect to credit cost. So, eventually
+now we are seeing the specific credit cost coming down to 63 odd basis points. You
+Kotak Mahindra Bank
+January 24, 2026
+Page | 20
+This is a Public document.
+indicated some stress continuing on the retail CV. But otherwise, are we comfortable on
+PL, credit card? Has MFI also maybe almost picked out and you should see the benefit?
+And where should we ideally see the credit cost trajectory going forward?
+Devang Gheewalla: Yes. So, the credit cost reduction is on the expected lines. And as I explained, the
+unsecured businesses, which is the microfinance, credit card and personal loan, if I look at
+each of them, the microfinance and personal loan, credit cost actually has started
+decreasing. And that's actually the benefit, which is sort of you are seeing. A credit card
+obviously has plateaued and it's not showing any increasing trend. So, the primary reason
+for the reduction in the credit cost is on account of unsecured business credit cost coming
+down. On the commercial vehicle, I think we are now saying we are cautiously observing
+it. We are hopeful that it will plateau down during the Q4. And then we will see how it
+operates. But I think the good news is that the unsecured credit cost is behind us now. And
+that's what is effectively resulting in the reduction what we saw during the quarter.
+Kunal Shah: So, what should be the steady state credit cost number now after having achieved 63 basis
+points, do we see improvement to 50 basis points to 60 basis points over a period, maybe
+over the next 12 months period?
+Devang Gheewalla: So, Kunal, if I just step back, pre-COVID, if I look at my credit cost, where of course my
+unsecured percentage is also lower, hovering around 0.4-0.45. As you increase the mix of
+unsecured credit costs, obviously credit costs on a standalone basis might show an
+increase. But I think it also gets you higher returns. So, given that the mix of unsecured will
+gradually go up, it obviously has to be higher than the historical what we used to have. But
+clearly, even in Q4, we expect the credit cost to further gradually go down and the trend
+continuing during Q1.
+Kunal Shah: Thanks. That's helpful. That's all from my side.
+Devang Gheewalla: Thank you.
+Moderator: Thank you. Our next question comes from the line of Rikin Shah from IIFL Capital. Please
+go ahead.
+Rikin Shah: Hi. Good evening, everyone. I had four questions. So, the first one is on CA and you alluded
+to some benefit from capital market, but even the average CA balances even on sequential
+basis for last two quarters have been improving. So, how much of this would you really be
+attributing to the capital market? And how should we think of stickiness of this deposits?
+So, that's the first one.
+Kotak Mahindra Bank
+January 24, 2026
+Page | 21
+This is a Public document.
+Paritosh Kashyap: Hi, Rikin. This is Paritosh. See, in our wholesale business, we have a large number of
+customers who are from financial segment, which is custody, private equity funds, mutual
+funds, insurance companies, all of them and also capital markets business gives us deal
+CA. Some of these things are consistent, one or the other customer keeps giving us this
+CA. So, even if this is a deal CA, this is a regular and consistent deal CA, which keeps
+coming to us from multiple set of customers. So, I would say there is a tendency of this
+business to be more sustainable with some degree of volatility.
+Devang Gheewalla: Just to add, the current account, the average growth is not only the wholesale deposit. The
+consumer current account also granularly grew, including the SME business, which also
+contributed. My reference to the IPO and all that was with respect to the short-term
+deployment in treasury. But I think if I look at purely on a current account average thing,
+it's not only wholesale, but I think the consumer banking also contributed to that in that.
+So, despite EOP, if you recall, we had said that Q2 EOP had a lumpy deal-based thing. But
+on an average basis also, if you see the current account is showing a growth, both for
+consumer as well as wholesale.
+Rikin Shah: Got it. The second one is on the SA deposits. So, some of your peers have seen rundowns
+in the institutional SA deposits. So, what is the quantum of such deposits for Kotak? How
+is it behaving for you and the outlook on the same, please?
+Pranav Mishra: Hi, this is Pranav. With respect to institutional or for that matter, marquee and bulky
+savings account, if you look at, we are more focused towards granularity and we are also
+consciously looking on quarter-on-quarter, running down as far as SA MIBOR is
+concerned. So, as far as the fixed rate SA is concerned, it is being built with primarily having
+more of retail focus onto it with granularity. And also, if you look at one of the engines of
+growth for us is 811, which is primarily the smaller ticket size, but with a lot amount of
+granularity and an active participation of the core India into it. So, that's how we have
+designed our strategy to take care of whether high net worth individuals are concerned or
+for that matter, mass affluent and then the core India. So, that's where it is building on as
+far as more granularity than a bulkiness onto it towards institutions.
+Rikin Shah: Got it. The third one is on the total cost of deposit. How would that number look like? Would
+it be broadly 4.45%? And how much of term deposit repricing do you think is still
+remaining? So, that's the third one.
+Devang Gheewalla: Look, I think we have indicated the average cost of the saving account, which is already
+there in that. I think the term deposit rates obviously have sort of reduced over quarteron-quarter. But I think as I indicated, getting into Q4, clearly there is some tightening and
+hardening of the rate, which may take place. In terms of the residual sort of repricing, I
+explained the cost. If I look at the cost of fund benefit itself, which used to be about 32 bps
+Kotak Mahindra Bank
+January 24, 2026
+Page | 22
+This is a Public document.
+in Q2, further reduced to 16 bps in Q3. It's further, obviously as the repricing starts
+completing, it will further go down. So, clearly with the average term deposit, which is
+between 9 months to 12 months, and if you look at roughly the repricing started towards
+middle of Q1, we expect the repricing to get completed by Q1 of the next year.
+Rikin Shah: Got it. Perfect. And the last question is on the Agri PSL. So, some of the peers have had
+some regulatory supervisory observations. Would you be able to comment whether the
+same audit has been done or any broader color for your book as well?
+Ashok Vaswani: It's not possible for us to comment on other banks. I just don't know. As far as we are
+concerned, we have not taken any provision. Also, as far as the RBI audit is concerned, that
+is something that we are required to keep confidential, so I can't discuss the findings of
+anything from the RBI audit. But suffice to say that we have not taken, as you would have
+seen, we have not taken any provision in this quarter.
+Rikin Shah: Got it. Thank you, gentlemen, for answering all the questions.
+Ashok Vaswani: Thank you.
+Moderator: Thank you. Our next question is from the line of Abhishek Murarka from HSBC. Please go
+ahead.
+Abhishek Murarka: Hi. Good evening. So, my first question is on loan growth and specifically just coming to
+credit cards. This quarter we have seen, at least in the RBI data that came out, that a lot of
+other smaller banks have started increasing their card issuances. What seems to be
+holding you back in terms of card issuances and spend pickup?
+Ashok Vaswani: So, frankly, Abhishek, like we have been talking about, we completely revamped our credit
+card proposition. We have launched a whole range of new products, right from Solitaire for
+the top end to Air+ and Air, which is a cash mile product for the mass affluent and then a
+cashback product. This whole range of products are going out and you will start seeing
+growth in spends and Air cards. Having said that, we want to be cautious. We obviously
+don't want to grow very aggressively and then get into credit problems. And as you would
+have seen, Q3, generally speaking, has been a very muted quarter for credit cards across
+the industry. So, we will see in the first instance, we will see spend on the cards go up as
+we ramp up acquisition. And then we will see ANR build over a period of time. The newly
+launched products, particularly Solitaire, is doing very well. And we are very hopeful that
+those numbers will start showing up very quickly.
+Kotak Mahindra Bank
+January 24, 2026
+Page | 23
+This is a Public document.
+Abhishek Murarka: So, it's probably more a matter of time that all these steps that you have taken, they'll start
+building up and we start seeing some traction, maybe 1 or 2 quarters down the line in this
+portfolio?
+Ashok Vaswani: That is correct.
+Abhishek Murarka: Understood. And as far as OpEx is concerned, so one of the things is that, the marketing
+spend and the acquisition cost that will also continue to go up as PL, cards, etc., all of
+these scale up. So, just from a cost growth perspective, what kind of, say, medium-term
+growth should we look at as a sustainable run rate? Because right now, a lot of it is
+impacted by last year's slowdown in several segments. But going forward, we are looking
+at more traction. So, how would the cost growth pan out?
+Ashok Vaswani: Abhishek, think about it this way, that, we want cost to go up when we are acquiring new
+customers in 811, in Affluent, new cards, new tractor loans, and stuff like that. Those costs,
+frankly, are good costs and let them kind of go up. That will be offset by a lot of our effort
+in automation and digitization, where we are trying very hard and working feverishly to
+improve efficiencies and our customer experience. And obviously, as we kind of grow the
+acquisitions and grow the marketing costs and things like that, you will see income go up
+as well. I don't think we can really talk about a kind of guidance on either cost-to-income
+ratios and stuff like that. But effectively, that is what we are trying to drive. Anything you
+would add, Devang?
+Devang Gheewalla: Yes, just to build up on that, one data point, while Ashok rightly mentioned the acquisition
+costs are obviously volume-related, which we obviously want to grow with our philosophy
+of growth for scale. But I think if I look at the fixed costs, and let's say the CTC, which is
+the payroll cost of the staff, which is effectively around 60%-65% of the total cost, between
+Q3-Q2, it has remained flat. So, while we are spending on acquisitions, new businesses, I
+think the fixed cost is where we are clearly controlling. And, some of the investments in
+technology which we have been continuing, is now sort of helping us to rationalize some
+of those things.
+Abhishek Murarka: No, absolutely. I don't look at costs as any negative item as such. It is a necessity for
+growth and revenue generation, of course. But just as a thought process, if you are
+expecting, let's say, mid-teens, high-teens, whatever, loan growth, costs would lag it
+substantially by 3-4 percentage points or you could see more operating leverage as cost
+growth being much slower than loan growth. So, just how do we think about these two?
+And then that can give a sense of the jaws going forward. So, I am just trying to get some
+understanding there.
+Kotak Mahindra Bank
+January 24, 2026
+Page | 24
+This is a Public document.
+Ashok Vaswani: Over a period of time, Abhishek, not quarter-by-quarter-by-quarter, but on a trend basis,
+we should see cost-to-assets coming down. And we started to see that trend and we are
+hopeful that that trend will accelerate.
+Devang Gheewalla: Actually, if you also look at cost-to-assets ratios, if you look at, as Ashok rightly said, over
+a longer period of time, if I look at from last year over this quarter and this quarter, as I said,
+some aberrations, actually it has come down. It used to be about 3%. It is now down to
+around 2.7 and 2.5 sort of range, right? So, it is always coming down, that's a good way to
+look at as an indication as a cost-to-the-asset build-up basically. I think it's already on
+this way. I certainly would like to further improve that as we go along, right?
+Abhishek Murarka: Exactly. So, that is where my question was from because cost-to-assets has come down
+in a period when some of your assets, which require more spend, they have not grown. And
+now when they grow, does cost-to-asset go back to 3% or from here you continue to see
+steady reduction in cost-to-assets? So, just that understanding, that's it.
+Devang Gheewalla: I think we would like to obviously maintain cost-to-asset ratio in the range of 2.5-2.6.
+Abhishek Murarka: Got it. Thank you. Thanks a lot and all the best.
+Moderator: Thank you. Our next question is from the line of Marukh Adajania from Nuvama. Please go
+ahead.
+Marukh Adajania: Yes. Hi. Good evening. My first question is on ECL. So, based on the draft, what would be
+the likely impact on credit cost for you from ECL? And my other questions are that you did
+mention or you did allude to some rundown in the PL portfolio purchase from Standard
+Chartered. So, could you quantify or throw some light on it? And I just also wanted to know
+if you could quantify the proportion of liabilities which are yet to reprice in the 4th and 1st
+quarters from the old--
+Devang Gheewalla: On the ECL part, as you know, it is still a draft circular which RBI has come up and all the
+banks, including us, we have obviously represented because it requires you to make a
+floor-based provisioning by asset segment. However, considering even the draft circular,
+the impact of the ECL provision is less than 2% post-tax for us in the Bank. So, it is not
+likely to materially impact even if you were to apply the draft circular as is. So, that is the
+first point.
+Marukh Adajania: 2% what?
+Devang Gheewalla: 2% of the net worth. And as you know, we already have significantly higher net worth than
+required. So, we don't see any significant impact arising out of that. And even in fact, the
+Kotak Mahindra Bank
+January 24, 2026
+Page | 25
+This is a Public document.
+circular also provides for amortizing that over 4 years and all that. But we will see how the
+final draft circular comes. But I think it is suffice to say it is not a significant impact at all,
+even if you were to go as this circular.
+Coming to the standard charted portfolio, which is there, now I think the residual portion
+which remains is not very significant. It is less than INR 1,500 crores approximately. It is
+about 20% of what it was. So, I think it will run down over the next 2 quarters in that sense.
+The third portion, what you said, is on the repricing, which is left, which I partially answered
+earlier. As we had mentioned, the term deposit average maturity is about 9-12 months.
+And we expect the repricing to effectively complete during the Q1 in that sense. And that
+anyway, if you see the trend of cost of fund reduction, it reflects actually the repricing pace
+of the term deposit. So, that is how I look at it going forward.
+Marukh Adajania: Thank you very much. Thank you.
+Moderator: Thank you. Our next question comes from the line of Piran Engineer from CLSA. Please go
+ahead.
+Piran Engineer: Yes. Hi, team. Congratulations on the quarter and also on hiring Mr. Saha. Just firstly,
+getting back to the current account thing, our growth for the last 2 quarters was good. Last
+quarter was even better at 8%. Is all the pickup in growth due to the capital markets
+business or some structural changes we have made due to which current account growth
+is picking up?
+Pranav Mishra: Hi, Pranav here. Our current account is primarily, if you look at, there is a lot amount of
+activity around the granularity in the market also. And we have been able to capitalize on
+in terms of the opportunity which is being thrown out there in the market as far as
+acquisition of more of what you call as private labelled companies, proprietary, and things
+like that. So, our growth primarily, and that is where you will find an AMB growth
+commensurating with the fact that these are granular current account franchisee getting
+created.
+Paritosh Kashyap: I will just add, in addition to that, our focus on building CMS capabilities and offering more
+cash management services to our corporate customers, which not only help us get better
+CA, also effectively helps improve productivity both at Bank end as well as the customer
+end. So, that is together between consumer Bank and the wholesale Bank helping us
+improve the CA.
+Piran Engineer: But see, this was also true a year back, right? Year, year and a half back. But our growth
+was still weak then. And we were catering to the SMEs. We had the consumer banking
+Kotak Mahindra Bank
+January 24, 2026
+Page | 26
+This is a Public document.
+product, cross-selling current accounts to them. But this year, we have seen current
+account deposit growth really accelerate. So, just trying to understand, maybe it just
+happened by chance, but have there been any specific steps we have taken? That was my
+question?
+Ashok Vaswani: Trust me, it hasn't happened by chance. It has been a lot of effort and a lot of focus of the
+sales teams. And Pranav has driven a lot of this through the branch network. We have been
+very focused on getting the affluent customer base. The level of changes that we have
+driven to our branch network, both in terms of process, focus, building our branches based
+on persona of catchment areas, making the whole acquisition process far more efficient,
+all of that, plus all the automation and digitization to help customers with their payment
+flows has all resulted in this. So, trust me, it has been a tremendous amount of effort and
+focus on this area, which has led to this kind of performance.
+Piran Engineer: Got it. That helps. Secondly, just on your Agri-finance book now, last couple of years, it has
+been unchanged at INR 25,000 crores. And this is different from the tractor book. So, can
+you just talk a bit about what loans are there here and why you are not growing them? And
+I am presuming these are better yielding than the rest of the book?
+Manish Kothari: So, this is primarily the Agri-SME value chain, which is what we cover here. So, this is not
+the KCC book. This is primarily the Agri-SME value chain business, which is what we are.
+We have kind of pivoted around, building around the various Agri-clusters across the
+geography. And that is something which we kind of pivoted as a strategy over the last
+couple of years in terms of driving it. And that is what is yielding results in terms of
+numbers that you are seeing. Slowly, the numbers have been inching up on our last 3
+quarters, when you see the numbers.
+Piran Engineer: So, these are like food processing units or storage units or stuff like that?
+Manish Kothari: Agri-traders, Agri-processors, primary processors, secondary processors, all of that falls
+within this particular segment.
+Piran Engineer: Got it. And then just lastly, a couple of clarifications I needed. Devang, when you say the
+CTC is flat, but even if I adjust for the labor code, the employee OPEX is up 9%. So, what
+am I missing here? And secondly, what is the mix of LAP in the mortgage book?
+Devang Gheewalla: So, I also mentioned that if you see the pension liability, last time I had mentioned we had
+a benefit because of the interest rate movement, which has effectively reversed out and
+normalized during the quarter. So, that is the first part. Second, I think some of the sharebased incentive, which are like SAR, obviously, the provisions have gone up because of the
+share price movement, which has impacted those provisions.
+Kotak Mahindra Bank
+January 24, 2026
+Page | 27
+This is a Public document.
+Piran Engineer: Got it. And just on the LAP percentage of the mortgage book?
+Devang Gheewalla: LAP and sort of HF, I think it should be around almost equal 55-65 sort of thing, basically.
+Piran Engineer: Got it. That is useful. Thanks and wish you all the best.
+Devang Gheewalla: Thank you.
+Moderator: Thank you. Our next question comes from the line of Suraj Das from Sundaram Mutual
+Fund. Please go ahead.
+Suraj Das: Yes. Hi. Thanks for the opportunity. I think a few questions have already been answered.
+Just a follow-up and two questions total. First one on the credit card follow-up. While as
+you have mentioned that your Solitaire Card seems to be performing well, but I guess last
+time, you had earlier slowed down the card acquisition through 811 channel for the mass
+customer segment. Has that funnel been reopened? That is one. And also, in terms of the
+Solitaire Card, it is a Super Premium card, right. So, is it a ROE accretive product? Related
+to credit card also one question. In terms of this proportion of personal loans on credit
+cards, what could be that proportion in terms of this overall personal loan book of INR
+25,000 crores? So, that is question one.
+Question two, sir, is on strategy a bit. In terms of, say, the Bank's leadership bandwidth in
+the consumer vertical has been further strengthened. In that context, do you have any
+plans, say, to expand or rejig the consumer Bank's product portfolio? Are there any
+products which are probably not key focus areas or maybe growth drivers today or maybe
+you are not offering currently, but you see becoming incremental growth drivers overtime?
+And the last question, sir, in terms of this IDBI deal, what would be your comments? Since
+now government has finally invited bids?
+Ashok Vaswani: Yes. So, let us start with cards, right? So, Solitaire is targeted towards the affluent. Solitaire
+has landed well. The spend on the Solitaire Card is proving to be very accretive for us. While
+it is still early days to see how it kind of builds up, I believe that Solitaire will be a profitable
+product in its own right, given the levels of spend that we are getting on Solitaire.
+Your other question around 811. At one point in time, we had done a lot of experiments
+with the 811 kind of customer base, and those experiments did not entirely work out well
+for us. It is not as if we are not selling card products to the 811 base, but we are doing it in
+a much more refined kind of way, using advanced risk models and capping exposure just
+to make sure that we are getting it right. So, that will kind of continue. We will come back
+on cards and kind of grow the book.
+Kotak Mahindra Bank
+January 24, 2026
+Page | 28
+This is a Public document.
+IDBI, look, we look at every single transaction that comes up in the marketplace, and we
+essentially have 3 criterias that we look at. The first criteria we look at is, is this particular
+transaction going to add to us strategically, right? If the transaction adds to us
+strategically, then of course, we go to the next stage. If it doesn't add strategically, it kind
+of goes away. Then we look at valuation and say, what is the valuation on this particular
+transaction and is it value-accretive for the firm? I have said time and time again that for
+us, scale is scale for relevance and not just scale for size. So, does it really add
+strategically, and will it be accretive to the group? If it is both strategically and financially
+good, then of course, we get excited about the transaction. But even then, there is a third
+lens that we put to it. And the third lens that we put to it is really the lens of saying, what
+is it going to take to really integrate this kind of acquisition, right. We are on a pretty
+significant transformation path.
+Our transformation path is about getting far more customer-centric. It is about automating
+and digitizing Kotak to take it to a completely different level. And there is a lot of effort that
+we are pushing into driving those efficiencies within the system because those will be
+clearly longer-term, significant benefits for Kotak.
+So, even if it meets strategically or if it meets valuation, then we always compare what
+does it really mean in terms of integration? How much management bandwidth is it going
+to be? How much of that will be a distraction? What are the kinds of things that you really
+want to spend your time on? You want to spend your time on developing new technologies,
+getting into the AI game, making customer satisfaction a big priority, or do you want to
+spend your time integrating HR systems, dealing with labor unions, and all of that kind of
+good stuff? And therefore, we look at every single opportunity against these 3 lenses, right?
+And whichever opportunity comes up, we will continue to look at it against these 3 lenses
+and then weigh up whether it makes sense for us or does not make sense for us.
+Suraj Das: Sure, sir. And sir, those 2 questions on the strategy on the consumer Bank and the PL on?
+Ashok Vaswani: Yes, on the consumer Bank, look, our stated strategy is all about identifying focus
+segments and going aggressively after focus segments to get disproportionate market
+share, right? We have launched the Solitaire proposition. We have got a great proposition
+in the private Bank. Core India, we have got a great proposition in 811. Now, these
+propositions, once we land the proposition, it is not as if we are going to just keep quiet,
+right? We want to continue to enhance these propositions so that we get a greater deal of
+customer engagement and a higher level of acquisition. So, that is going to be an ongoing
+effort as far as we are concerned, right? And we are constantly monitoring what our
+customers are saying, what do they really want, and how can we serve these customer
+Kotak Mahindra Bank
+January 24, 2026
+Page | 29
+This is a Public document.
+segments better? And based on the feedback that we are getting, based on the
+conversations, we will improve the propositions that we have in the marketplace.
+Suraj Das: Sure, sir. And any quantum if you can highlight on the PL on cards portion and the overall
+personal loan book?
+Ashok Vaswani: So, we have a pretty much separate product in PL. And therefore, PL on card, frankly, to my
+mind, is not such a great product because it clogs up the credit limit. And therefore, for us,
+that is not a very significant proportion of the credit card book.
+Suraj Das: Thank you for answering all my questions.
+Ashok Vaswani: Thank you.
+Moderator: Thank you. Our next questioner is Jai Mundhra from ICICI Securities. Please go ahead.
+Jai Mundhra: Hi. Good evening, sir. Thanks for the opportunity. Sir, on slippages, right, so the absolute
+slippages are stable Q-o-Q. You have been mentioning that the Bank has been
+experiencing improving trajectory on personal loan, credit card, MFI. And those are
+supposedly high delinquent product. So, if they are improving, then, which is the piece
+which is rising and hence, the overall slippages are stable. That is if you can provide some
+clarity there apart from the retail CV, which anyway is a very small proportion, I believe?
+Devang Gheewalla: Hi, Jai. So, if you look at the slippages data, you are right that if you compare just the
+slippage data, say, 1,629, going to 1,605 doesn't make a significant reduction. I think I
+would urge you to look at the fresh slippages upgraded within the same quarter. So, if you
+look at the number during this quarter is 257. So, effectively, while INR 1,605 crores is a
+gross slippage, which we entered during quarter, of which 257 actually also got cured
+during the quarter. If I look at the similar number in the last quarter, it is 1,629, going to
+1,464 . So, if I consider the upgraded portion also as a part of the slippage, actually it has
+come down by about INR 100 crores on a quarter-on-quarter basis. So, that is the first
+part. Second piece, I think, yes, slippages are combination, but I think in terms of the
+unsecured businesses, they are indeed coming down. But I think it is the retail commercial
+vehicles and some of the rural-related advances which is effectively sort of bringing it up
+during the quarter.
+Jai Mundhra: Sure, sir. And lastly, on One Kotak, right, so, as we have been saying that we are a unique
+positioned financial conglomerate, but if I look at the core fee income, despite industryleading loan growth and deposit growth, but the core fee income growth has been much
+weaker or much smaller than the loan growth and even in absolute basis, despite all this
+conglomerate strategy. So, is there anything which is, when can we expect the core fee
+Kotak Mahindra Bank
+January 24, 2026
+Page | 30
+This is a Public document.
+income going more or less similar in terms of business growth? So, far, was there any
+obstacle? Thank you.
+Jaideep Hansraj: Two things, Jai. One, obviously, the fee income consists of a combination of a whole host
+of things, starting from foreign exchange income to DCM income to life insurance
+distribution income to mutual fund distribution income and other such products as well. If
+you look at the fee income growth on a Q-o-Q basis, you started seeing green shoots with
+a 6% growth on a quarter-on-quarter basis. As I said that this is something which has been
+started, we have been talking about for maybe about 2-3 quarters now, and it is not
+immediate that you would see the results, but 6% quarter-on-quarter number is, I would
+say, a beginning, and we just like to keep growing on that, hopefully on a quarter-onquarter basis.
+Ashok Vaswani: And I think it is beyond the fee line also, right. Look, there is no question about getting
+referrals for assets, and it is also not only just from the subs to the Bank, but also Bank to
+the subs. So, I think we have got to look at it on a little more holistic basis.
+Jai Mundhra: Right. Thanks. And I think, sir, if you could repeat what you said in response to that we
+have strengthened the consumer banking management bandwidth, any products that you
+would like to sort of rehash or reintroduce or introduce or scale up over the next few
+quarters here? Thank you.
+Ashok Vaswani: Yes. So, what I said was that, look, ultimately, it is not so much about doing a particular
+product, it is more about the propositions that we have landed for our various customer
+bases, right, and strengthening the proposition. So, we land the proposition with a certain
+set of products and services, and then we are constantly monitoring what customers say
+about that proposition. And based on the feedback, we continuously strengthen the
+proposition so that it becomes more meaningful and more engaging for our customers.
+And we will continue to do that. There will be things that will land, which will have
+resonated with customers, and then there will be other things which may have not
+resonated or there will be feedback, and we will twist and adjust the propositions to take
+care of those things.
+Jai Mundhra: Sure, sir. That helps a lot. Thank you and all the very best.
+Ashok Vaswani: Thank you.
+Moderator: Thank you. Our next question is from the line of Chintan from Autonomous. Please go
+ahead.
+Kotak Mahindra Bank
+January 24, 2026
+Page | 31
+This is a Public document.
+Chintan: Thank you for taking my question. I will restrict myself to one question. Devang, you
+mentioned that rates are tightening and competitive dynamics might not be as good in the
+4th quarter. Do you not think the RBI measures will help there? Or is the tightening for you
+strong enough that we should be a little wary of how the dynamics play out in the 4th
+quarter?
+Devang Gheewalla: I think they are super high. My comment was also based on the initial liquidity in the
+system data, which is we are seeing. Of course, you are right. Some of the measures have
+been taken by RBI currently. But typically, Chintan, if you see, Q4 is a very quarter where
+for the corporates as well as for the Bank, where the liquidity does tighten up in that sense.
+So, it was more based on what we saw for the first 10 days of January. Of course, if RBI
+takes measures and to ease it out, it will sort of reflect in that. But till date, at least we have
+seen, at least the term deposits rates, even if you see the term deposit rates quoted by the
+peer banks across the buckets have actually inched up. So, my comment was based on
+that experience, actually. Now, of course, with these measures tightening, who knows
+whether they will sort of further break it down but let us see about that.
+Chintan: And just a request for the next quarter, just for a couple of quarters, if you could give us a
+yield on advances and cost of deposits, just as this repricing completes, I don't want to get
+into that granularity, but it will help for a few quarters. Thank you.
+Devang Gheewalla: Yes, we will consider your request. Thank you.
+Moderator: Thank you. Ladies and gentlemen, we will take that as our last question for today. I would
+now like to hand the conference over to Mr. Ashok Vaswani for closing comments. Over to
+you, sir.
+Ashok Vaswani: Thank you so much. Thanks, everybody, for joining us. Much appreciate doing this on a
+Saturday evening. And I look forward to seeing you all again in approximately 90 days.
+Thank you so much. Bye-bye.
+Moderator: Thank you. On behalf of Kotak Mahindra Bank, that concludes this conference. Thank you
+all for joining us. You may now disconnect your lines.
